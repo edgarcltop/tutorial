@@ -3,7 +3,6 @@
 - [TutorialKit Blob post](https://blog.stackblitz.com/posts/announcing-tutorialkit/?vgo_ee=wclkhMjHzJNIHlrdwOCJl%2F25vQGZ0vy12qtmYh6L%2BuEW%3AlC5dhTBtDXuC8PnfXesDIC9drA4bJl1y)
 
 <br />
-<br />
 
 # Original Readme 👇
 
