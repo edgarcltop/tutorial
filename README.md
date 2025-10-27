@@ -1,8 +1,4 @@
-#Tutorial App
-<br />
-
-# Original Readme 👇
-
+# Tutorial App
 
 This README includes everything you need to start writing your tutorial content quickly.
 
